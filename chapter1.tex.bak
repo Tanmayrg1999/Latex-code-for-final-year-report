@@ -1,0 +1,15 @@
+\newpage
+\chapter{Introduction}
+
+\section{Introduction}
+\cite{rabinar}
+\section{Background}
+\begin{figure}[h!]
+    \begin{center}
+        \includegraphics[scale=0.6]{sample}
+        \caption{MIT Academy of engineering}
+    \end{center}
+\end{figure}
+
+\vspace{10mm}
+\hrule
